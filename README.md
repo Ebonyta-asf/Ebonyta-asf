@@ -23,4 +23,4 @@
 -----
 # 🙏 Help me
 
-<p align="center"> <a href="https://discord.gg/beXKzY5DqM"><img src="https://canary.discordapp.com/api/guilds/817811272431173693/embed.png" alt="Discord server"></a></p>
+<p align="center"> <a href="https://discord.gg/EMGnWbDYPu"><img src="https://canary.discordapp.com/api/guilds/817811272431173693/embed.png" alt="Discord server"></a></p>
