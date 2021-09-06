@@ -19,7 +19,7 @@
 
 
 # 📬 Contact Me
-<a href="https://www.youtube.com/channel/UCjc56_z0Gj4h1SP5DZGUKcg"><img src="https://icons-for-free.com/iconfiles/png/512/round+icon+video+youtube+icon-1320190508546598347.png" width="40"></a> <a href="https://discord.gg/beXKzY5DqM"><img src="https://cdn0.iconfinder.com/data/icons/free-social-media-set/24/discord-512.png" width="40"></a>
+<a href="https://www.youtube.com/channel/UCjc56_z0Gj4h1SP5DZGUKcg"><img src="https://icons-for-free.com/iconfiles/png/512/round+icon+video+youtube+icon-1320190508546598347.png" width="40"></a> <a href="https://discord.gg/EMGnWbDYPu"><img src="https://cdn0.iconfinder.com/data/icons/free-social-media-set/24/discord-512.png" width="40"></a>
 -----
 # 🙏 Help me
 
