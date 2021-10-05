@@ -13,9 +13,9 @@
 
 📚 »┊ I am learning javascript every day to code my own advanced discord bot
 
-![WHAYN's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LittleRooky&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=jolly)
+![WHAYN's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LittleRooky&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LittleRooky&theme=jolly)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LittleRooky&theme=tokyonight)
 
 
 # 📬 Contact Me
