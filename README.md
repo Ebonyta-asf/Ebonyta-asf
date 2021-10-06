@@ -25,6 +25,9 @@
 
 <p align="center"> <a href="https://discord.gg/EMGnWbDYPu"><img src="https://canary.discordapp.com/api/guilds/817811272431173693/embed.png" alt="Discord server"></a></p>
 
+![Metrics](https://metrics.lecoq.io/LittleRooky?template=classic&languages=1&isocalendar=1&achievements=1&pagespeed=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=A&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&pagespeed.url=https%3A%2F%2Fcelebrian.fr%2F&pagespeed.detailed=true&pagespeed.screenshot=false&config.timezone=America%2FGuadeloupe)
+
 <img align="right" width="400" alt="🦑" src="https://github.com/LittleRooky/LittleRooky/blob/main/metrics.plugin.anilist.characters.svg">
+
 
 
