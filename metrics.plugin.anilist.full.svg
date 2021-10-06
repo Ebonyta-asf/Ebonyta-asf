@@ -1270,7 +1270,7 @@ span.code {
                   </h2>
                           <div class="medias largeable-flex-wrap">
                               <div class="media largeable-width-half">
-                                  <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx10793-1MZZn6X0kdPF.jpg" width="48" height="72" alt="" />
+                                  <img data-v-4df465ff ="" src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx10793-1MZZn6X0kdPF.jpg" width="48" height="72" alt="" class="cover"/>
                                   <div class="about">
                                       <div class="name">
                             serial experiments lain
