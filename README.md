@@ -25,4 +25,6 @@
 
 <p align="center"> <a href="https://discord.gg/EMGnWbDYPu"><img src="https://canary.discordapp.com/api/guilds/817811272431173693/embed.png" alt="Discord server"></a></p>
 
+[<img align="right" width="400" alt="🦑" src="https://github.com/LittleRooky/LittleRooky/blob/main/metrics.plugin.anilist.full.svg">]
+
 
