@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://cdn.discordapp.com/attachments/928401908199207022/938224842099015741/20220128_123327.jpg" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://cdna.artstation.com/p/assets/images/images/047/763/264/original/jef-wu-sketch-44-ranni-process.gif?1648396502" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Littlerooky</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from Canada.</h3>
