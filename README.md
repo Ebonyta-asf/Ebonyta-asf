@@ -21,16 +21,16 @@
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
-    <a href="https://www.java.com" target="_blank"> <img src="https://img.shields.io/badge/Java-https%3A%2F%2Fjava.com%2F-yellow"/> </a>
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.shields.io/badge/Reactjs-https%3A%2F%2Freactjs.org%2F-9cf"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.shields.io/badge/JavaScript-https%3A%2F%2Fwww.java.com-yellow"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.shields.io/badge/Html5-https%3A%2F%2Fwww.w3.org%2Fhtml%2F-orange"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.shields.io/badge/Css3-https%3A%2F%2Fwww.w3schools.com%2Fcss%2F-blue"/> </a> 
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/Python-https%3A%2F%2Fwww.python.org-yellow"/> </a> 
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.shields.io/badge/NodeJs-https%3A%2F%2Fnodejs.org-brightgreen"/> </a> 
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.shields.io/badge/MongoDB-https%3A%2F%2Fwww.mongodb.com%2F-green" alt="mongodb"/> </a> 
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/Git-https%3A%2F%2Fgit--scm.com%2F-important"/> </a>
-    <a href="https://discordjs.guide/#before-you-begin" target="_blank"> <img src="https://img.shields.io/badge/DiscordJS%20-https%3A%2F%2Fdiscordjs.guide%2F-informational"/> </a>
+    <a href="https://www.java.com" target="_blank"> <img src="https://img.shields.io/badge/Java-18.x.x-ff69b4"/> </a>
+    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.shields.io/badge/Reactjs-18.2.0-blueviolet"/> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.shields.io/badge/JavaScript-ES13-ff69b4"/> </a> 
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.shields.io/badge/Html5-5.2.x -blueviolet"/> </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.shields.io/badge/Css3-x.x.x-ff69b4"/> </a> 
+    <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/Python-3.10.6-blueviolet"/> </a> 
+    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.shields.io/badge/NodeJs-16.x.x-ff69b4"/> </a> 
+    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.shields.io/badge/MongoDB-6.0.5-blueviolet" alt="mongodb"/> </a> 
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/Git-2.37.2-ff69b4"/> </a>
+    <a href="https://discordjs.guide/#before-you-begin" target="_blank"> <img src="https://img.shields.io/badge/DiscordJS%20-13.8.1-blueviolet"/> </a>
     
 </p>
 
