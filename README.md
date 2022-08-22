@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://cdna.artstation.com/p/assets/images/images/047/763/264/original/jef-wu-sketch-44-ranni-process.gif?1648396502" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Littlerooky</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ebonyta-asf</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from Canada.</h3>
 
 
@@ -38,16 +38,16 @@
 <br/>
 
 <p align="center">
-    <a href="https://github.com/Littlerooky/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Littlerooky's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Littlerooky&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/Ebonyta-asf/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Littlerooky's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Ebonyta-asf&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/Littlerooky/github-readme-stats"><img alt="Littlerooky's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Littlerooky&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/Littlerooky/github-readme-stats"><img alt="Littlerooky's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Littlerooky&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/Ebonyta-asf/github-readme-stats"><img alt="Ebonyta-asf's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ebonyta-asf&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/Ebonyta-asf/github-readme-stats"><img alt="Ebonyta-asf's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ebonyta-asf&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -55,7 +55,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/Littlerooky/github-readme-activity-graph"><img alt="Littlerooky's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Littlerooky&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/Ebonyta-asf/github-readme-activity-graph"><img alt="Ebonyta-asf's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Ebonyta-asf&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
@@ -71,9 +71,9 @@
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Littlerooky">
+    <img src="https://komarev.com/ghpvc/?username=Ebonita-asf">
 </a>
-<a href="https://github.com/Littlerooky?tab=followers"><img src="https://img.shields.io/github/followers/Littlerooky?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/Ebonyta-asf?tab=followers"><img src="https://img.shields.io/github/followers/Ebonyta-asf?label=Followers&style=social" alt="GitHub Badge"></a>
 
 
 
