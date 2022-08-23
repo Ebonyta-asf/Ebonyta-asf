@@ -20,7 +20,7 @@
 
 ## 🚀 Languages and Tools:
 
-<p align="left"> 
+<p align="center"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.shields.io/badge/Java-18.x.x-ff69b4"/> </a>
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.shields.io/badge/Reactjs-18.2.0-blueviolet"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.shields.io/badge/JavaScript-ES13-ff69b4"/> </a> 
@@ -46,7 +46,7 @@
 </p>
 
 ## 📊 My Github Stats
-
+<p align="center">
   <br/>
     <a href="https://github.com/Ebonyta-asf/github-readme-stats"><img alt="Ebonyta-asf's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ebonyta-asf&show_icons=true&count_private=true&theme=jolly&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/Ebonyta-asf/github-readme-stats"><img alt="Ebonyta-asf's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ebonyta-asf&langs_count=8&count_private=true&layout=compact&theme=jolly&hide_border=true&bg_color=0D1117" /></a>
@@ -56,6 +56,7 @@
 
 <br/>
 <br/>
+</p>
 
 <a href="https://github.com/Ebonyta-asf/github-readme-activity-graph"><img alt="Ebonyta-asf's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Ebonyta-asf&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
