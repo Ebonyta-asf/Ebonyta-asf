@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="./stripper-pole-zola.gif" height="80px"/></a>
+
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ebonyta-asf</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from Canada.</h3>
@@ -18,6 +18,9 @@
 
 - ⚡ Fun fact **I play games and go to the GYM very often.**
 
+
+<a href="#"><img width="100%" height="auto" src="./stripper-pole-zola.gif" height="80px"/></a>
+
 ## 🚀 Languages and Tools:
 
 <p align="center"> 
@@ -34,7 +37,7 @@
     
 </p>
 
-
+<a href="#"><img width="100%" height="auto" src="https://tenor.com/bunO1.gif" height="80px"/></a>
 
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
 <br/>
