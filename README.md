@@ -19,7 +19,7 @@
 - ⚡ Fun fact **I play games and go to the GYM very often.**
 
 
-<a href="#"><img width="100%" height="auto" src="./stripper-pole-zola.gif" height="80px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://cdn.discordapp.com/attachments/855200060328640532/1026572907972939816/Capture_decran_2022-10-03_a_15.13.52.png" height="80px"/></a>
 
 ## 🚀 Languages and Tools:
 
