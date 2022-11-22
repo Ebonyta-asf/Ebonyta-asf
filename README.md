@@ -3,6 +3,12 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ebonyta-asf</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from Canada.</h3>
 
+![](https://raw.githubusercontent.com/Ebonyta-asf/Ebonyta-asf/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/Ebonyta-asf/Ebonyta-asf/output/github-contribution-grid-snake.svggh-light-mode-only)
+
+![](https://raw.githubusercontent.com/MayMeow/MayMeow/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/MayMeow/MayMeow/output/github-contribution-grid-snake.svggh-light-mode-only)
+
 
 ## 🙋‍♂️ About Me
 
@@ -84,6 +90,9 @@
 <a href="https://top.gg/bot/796804218878296066">
   <img src="https://top.gg/api/widget/796804218878296066.svg">
 </a>
+
+[![Support Server](https://discordapp.com/api/guilds/406503146936991765/widget.png?style=banner3)](https://discord.gg/YZvPuaPMee)
+
 
 
                
