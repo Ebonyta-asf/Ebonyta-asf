@@ -87,9 +87,6 @@
 
 ## My Bot
 
-[![Support Server](https://discordapp.com/api/guilds/406503146936991765/widget.png?style=banner3)](https://discord.gg/YZvPuaPMee)
-[![Other Server](https://discordapp.com/api/guilds/852625586748915713/widget.png?style=banner3)]()
-[![Other Server](https://discordapp.com/api/guilds/814252321805828117/widget.png?style=banner3)]()
 [![Other Server](https://discordapp.com/api/guilds/971229208506404885/widget.png?style=banner3)]()
 [![Other Server](https://discordapp.com/api/guilds/813813927208812556/widget.png?style=banner3)]()
 
